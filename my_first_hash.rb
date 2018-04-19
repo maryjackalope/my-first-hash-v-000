@@ -27,7 +27,7 @@ def adding
                   "porcelain vases" => 2, 
                   "oil paintings" => 3
                  }
-
+shipping_manifest["key2"] = "value2"
 shipping_manifest 
 
 end
